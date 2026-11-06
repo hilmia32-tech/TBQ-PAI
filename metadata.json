@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi BTQ",
+  "description": "Portal Web Langsung Aplikasi BTQ SDN Jayasari",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
